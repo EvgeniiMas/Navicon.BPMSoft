@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "3cbcf6b5-f06d-a81e-0f77-e15c32a669cf",
+    "Name": "NavPackage",
+    "BPMSoftVersion": "1.3.0",
+    "ModifiedOnUtc": "\/Date(1703063418000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "1.0.0",
+        "Name": "Base"
+      }
+    ]
+  }
+}
