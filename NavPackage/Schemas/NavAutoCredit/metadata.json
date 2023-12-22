@@ -1,0 +1,100 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "85ae6593-f255-4268-89e0-f197ed2626b7",
+      "A2": "NavAutoCredit",
+      "A5": "3a0c0f4b-cc57-42ce-b1f3-8bbd083e730a",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "3cbcf6b5-f06d-a81e-0f77-e15c32a669cf",
+      "B8": "1.3.0.3026",
+      "EG1": {
+        "UId": "c210ec09-767b-4f2e-aa51-e4aaa6f1d4ac",
+        "A2": "NavEntity_37cfeb5EventsProcess",
+        "A5": "3a0c0f4b-cc57-42ce-b1f3-8bbd083e730a",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "1.3.0.3026",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "878c50ed-1643-9e35-abea-d103298b25d8",
+      "D2": [
+        {
+          "UId": "878c50ed-1643-9e35-abea-d103298b25d8",
+          "A2": "NavId",
+          "A3": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A4": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A5": "3a0c0f4b-cc57-42ce-b1f3-8bbd083e730a",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1,
+          "E12": {
+            "FB1": 3,
+            "FB2": "4e8109a3-dfd7-45ed-badd-6e8663ea7994"
+          }
+        },
+        {
+          "UId": "8169d2f1-daa9-5a54-7f46-5996b4e9fc91",
+          "A2": "NavAuto",
+          "A3": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A4": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A5": "3a0c0f4b-cc57-42ce-b1f3-8bbd083e730a",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "1e9d08d3-6fb1-42bb-a8eb-2b798c050a34",
+          "E2": 1,
+          "E6": true,
+          "E17": "NavAutoId"
+        },
+        {
+          "UId": "9ac0ca05-e30b-393a-2c1e-367ece9b8bd7",
+          "A2": "NavCredit",
+          "A3": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A4": "85ae6593-f255-4268-89e0-f197ed2626b7",
+          "A5": "3a0c0f4b-cc57-42ce-b1f3-8bbd083e730a",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "b7074f72-55fc-444e-88e1-7f65961cfd38",
+          "E2": 1,
+          "E6": true,
+          "E17": "NavCreditId",
+          "E18": "NavCreditName"
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "NavAutoCreditEvents"
+      }
+    }
+  }
+}

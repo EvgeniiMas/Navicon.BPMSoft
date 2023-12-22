@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "fda4685d-fc9f-4915-b0d3-bba7f4691557",
+    "Name": "NavInvoice",
+    "ModifiedOnUtc": "\/Date(1703251990000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Счёт"
+  }
+}

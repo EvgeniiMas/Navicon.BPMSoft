@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b7074f72-55fc-444e-88e1-7f65961cfd38",
+    "Name": "NavCredit",
+    "ModifiedOnUtc": "\/Date(1703248721000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Кредитная программа"
+  }
+}

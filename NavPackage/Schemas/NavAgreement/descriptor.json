@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "984ce4de-0e8f-484f-9a00-e6999ced3fcc",
+    "Name": "NavAgreement",
+    "ModifiedOnUtc": "\/Date(1703250323000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Договор"
+  }
+}
